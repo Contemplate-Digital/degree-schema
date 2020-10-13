@@ -1,0 +1,13 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "degree deodorant",
+  "url": "https://www.degreedeodorant.com",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.degreedeodorant.com/search-results",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
