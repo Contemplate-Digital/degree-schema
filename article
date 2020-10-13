@@ -1,7 +1,7 @@
 <script type="application/ld+json">
   {
       "@context": "http://schema.org",
-      "@type": "BlogPosting",
+      "@type": "Article",
       "mainEntityOfPage":{
       "@type":"WebPage",
       "@id":"www.degree.com//blog/blog-posting"
