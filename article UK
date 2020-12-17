@@ -1,0 +1,44 @@
+<script type="application/ld+json">
+  {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage":{
+      "@type":"WebPage",
+      "@id":"{{dynamic blog URL}}"
+      },
+      "headline": "This is a Heading",
+      "image": {
+      "@type": "ImageObject",
+      "url": "{{dynamic image URL}}"
+      },
+      "datePublished": "{{dynamic date ISO format}}",
+      "dateModified": "{{dynamic date ISO format}}",
+      "author": {
+      "@type": "Person",
+      "name": "{{Dynamic Author Name}}"
+      },
+      "publisher": {
+      "@type": "Organization",
+      "name": "Sure Deodorant",
+      "logo":{
+        "@type": "ImageObject",
+        "url": "{{Sure Deodorant Logo}}"
+        }
+      },
+      "description": "{{This is where your description goes. To be automated it can be the meta description}}",
+      "articleBody": "{{This is the entirety of the article body text}}",
+      "wordCount": "2691",
+      "accessMode": "Textual",
+      "inLanguage": "English",
+      "isFamilyFriendly": true,
+      "Keywords":"{{blog, blog keyword}}",
+      "timeRequired": "{{dynmaic time required in ISO format}}",
+      "sourceOrganization":{
+        "name": "Sure Deodorant",
+        "url": "https://www.suredeodorant.co.uk/"
+      },
+      "about":{
+        "name": "{{Dynamic name of the blog}}"
+      }
+   }
+</script>
