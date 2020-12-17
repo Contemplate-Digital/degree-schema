@@ -1,0 +1,13 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Sure Deodorant",
+  "url": "https://www.suredeodorant.co.uk/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.suredeodorant.co.uk/search.html?",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
